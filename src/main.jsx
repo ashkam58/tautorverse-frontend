@@ -3,7 +3,7 @@ import { StrictMode } from 'react'
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
-import './App.css'
+import './app.css'
 import { store } from './app/store'; // <-- Import the store
 import { Provider } from 'react-redux'; // <-- Import the Provider
 
